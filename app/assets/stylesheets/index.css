@@ -355,3 +355,35 @@ article:after, section:after, .clrFx:after {
     box-shadow: inset 0 0 2px rgba(128, 128, 128, 0.1);
     transform: translateY(2px);
 }
+.container{
+    background-image: url(anime.png);
+    background-size: cover;
+    
+    height: 800px;
+    weight: 1080px
+}
+.title{
+    font-size: 100px;
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: darksalmon;
+}
+.link1{
+    text-decoration: none;
+    color: #cce7ff;
+    margin-top: 250px;
+}
+.text{
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: darksalmon;
+    margin-top: 150px;
+}
+.link{
+    margin-top: 300px;
+    margin-left: 800px;
+    font-size: 80px;
+}
