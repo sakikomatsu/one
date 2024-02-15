@@ -361,29 +361,54 @@ article:after, section:after, .clrFx:after {
     
     height: 800px;
     weight: 1080px
+   
 }
 .title{
     font-size: 100px;
     font-family: "Protest Strike", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: darksalmon;
+    color: #FF8DB4;
+    margin-top: 40px;
 }
 .link1{
     text-decoration: none;
     color: #cce7ff;
-    margin-top: 250px;
+    margin-top: 260px;
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .text{
     font-family: "Protest Strike", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 60px;
-    color: darksalmon;
-    margin-top: 150px;
+    color: #000000;
+    margin-top: 170px;
 }
 .link{
     margin-top: 300px;
-    margin-left: 800px;
+    margin-left: 900px;
     font-size: 65px;
+}
+.event-box{
+    margin-left: 500px;
+    bottom: 200px;
+    position: absolute;
+  
+    
+    
+
+    
+}
+
+.container2{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    margin-right: 80px;
+    margin-top: 40px;
+    
 }
